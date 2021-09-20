@@ -1,7 +1,24 @@
-### Hi 👋
+## Hi 👋
 
-<!--
-**datadesse/datadesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [D Tadesse ](www.linkedin.com/in/datadesse)
+I am passionate about maths, statistics, physics and technology. I like finding solutions to challenging problems to  make the world a better place. With my own initiatives, I have  helped my local community by running and managing coding club and teaching maths.  I am confident that my programming langue, data analysis skills and mathematics and statistics knowledge enable me to be a good data analyst or data scientist.
 
-[My name is ](www.linkedin.com/in/datadesse)
-This analysis examines the download and upload speed of UK countries
+I related my first project  [UK Broadband Speed Analysis](https://github.com/datadesse/UK_Broadband_Speed_Analysis) with my work experiences with the local people problems to  identify UK countries and regions affected by low broadband speed. 
+
+### Index
+
+* [UK Broadband Speed Analysis](https://github.com/datadesse/UK_Broadband_Speed_Analysis) you will find my annalysis detail and the following programming langugers coding: 
+    * Python
+    * SQL
+    * R
+    * Tableau and other tools 
+    
+ * 🔭 I’m currently looking for entry level jobs in Data Science, Data Analytics, and Project Management. If you are looking for a commited team member, you got the right person!
+* 🌱 I’m working on new projects and constructing my website. 
+* 📫 How to reach me: www.linkedin.com/in/datadesse ;  dan.tadesse@yahoo.co.uk
+* 😄 Pronouns: he/him
+* ⚡ Fun fact: Great DIY skills 
+
+    
+ 
+
