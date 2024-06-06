@@ -15,7 +15,7 @@ I related my first project  [UK Broadband Speed Analysis](https://github.com/dat
     
  * 🔭 I’m currently looking for entry level jobs in Data Science, Data Analytics, and Project Management. If you are looking for a commited team member, you got the right person!
 * 🌱 I’m working on new projects and constructing my website. 
-* 📫 How to reach me: www.linkedin.com/in/datadesse ;  dan.tadesse@yahoo.co.uk
+* 📫 How to reach me: www.linkedin.com/in/datadesse
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Great DIY skills 
 
