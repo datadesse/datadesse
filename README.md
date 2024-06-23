@@ -1,13 +1,13 @@
 ## Hi 👋
 
 My name is [D Tadesse ](www.linkedin.com/in/datadesse)
-I am passionate about maths, statistics, physics and technology. I like finding solutions to challenging problems to  make the world a better place. With my own initiatives, I have  helped my local community by running and managing coding club and teaching maths.  I am confident that my programming langue, data analysis skills and mathematics and statistics knowledge enable me to be a good data analyst or data scientist.
+I am passionate about maths, statistics, physics and technology. I like finding solutions to challenging problems to make the world a better place. With my initiatives,I have helped my local community by running and managing a coding club and teaching maths. I am confident that my programming language, data analysis skills and mathematics and statistics knowledge enable me to be a good data analyst or data scientist.
 
-I related my first project  [UK Broadband Speed Analysis](https://github.com/datadesse/UK_Broadband_Speed_Analysis) with my work experiences with the local people problems to  identify UK countries and regions affected by low broadband speed. 
+I related my first project  [UK Broadband Speed Analysis](https://github.com/datadesse/UK_Broadband_Speed_Analysis) with my work experiences with local people's problems to  identify UK countries and regions affected by low broadband speed. 
 
 ### Index
 
-* [UK Broadband Speed Analysis](https://github.com/datadesse/UK_Broadband_Speed_Analysis) you will find my annalysis detail and the following programming langugers coding: 
+* [UK Broadband Speed Analysis](https://github.com/datadesse/UK_Broadband_Speed_Analysis) you will find my analysis detail and the following programming languages coding: 
     * Python
     * SQL
     * R
